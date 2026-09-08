@@ -19,6 +19,8 @@ Product discipline on small teams. Where AI agents actually change the job of a 
 ### Elsewhere
 
 - **Blog:** [benogren.com](https://benogren.com/) – including QBRs (Quarterly Ben Reports, yes I did that) where I report on what I've been building to a group of friends I call my personal board of directors.
+- **LinkedIn:** [in/benogren](https://www.linkedin.com/in/benogren/)
+- **X:** [@benogren](https://x.com/benogren)
 - **Work:** [join.build](https://join.build/)
 
 Always happy to talk shop. 🎉
