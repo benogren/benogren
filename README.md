@@ -1,8 +1,6 @@
 ## Hi, I'm Ben 👋
 
-You're probably wondering, "wait, is this guy an engineer?" (aside from, "what is with all these half-finished Next.js repos?")
-
-No. I'm a product leader in Colorado, currently **Head of Product at [Join](https://join.build/)**, where we build preconstruction software for the teams that plan and price large construction projects. Before that I spent years in enterprise product at **Workday**, and in between I took a "learning sabbatical" to find out whether I could build things myself.
+I'm a product leader in Colorado, currently **Head of Product at [Join](https://join.build/)**, where we build preconstruction software for the teams that plan and price large construction projects. Before that I spent years in enterprise product at **Workday**, and in between I took a "learning sabbatical" to find out whether I could learn AI and build things myself.
 
 ### What I'm actually doing
 
